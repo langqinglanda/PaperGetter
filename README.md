@@ -1,2 +1,0 @@
-# PaperGetter
-Papers are everywhere!!!!
